@@ -1,5 +1,6 @@
 # DBACFNet
 This repo provides a demo for the "Dual-Branch Attention-based Frequency Domain Network for Cross-subject SSVEP-BCI" on the Benchmark and Beta datasets.
+
 [https://ieeexplore.ieee.org/document/11231326])
 
 ### Requirements
